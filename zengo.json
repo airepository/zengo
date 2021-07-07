@@ -1,0 +1,28 @@
+[
+	{ 	"id": 1,
+		"poem":"Keiun gosai wo shouzu",
+		"month": 0,
+		"description": "There are five colors in the clouds:rainbow of color is considered auspicious therefore appropreate for New Year celebration.",
+		"image":"https://tshop.r10s.jp/auc-houkouen-tea/cabinet/07132720/04-r02-c16-02.jpg"
+
+	},
+	{ 	"id": 2,
+		"poem":"Shunkou hibi arata",
+		"month": 1,
+		"description": "The quality of the day light changes rapidly in Feburary, which reflects in pondering thoughts of new beginning.",
+		"image":"http://gigaplus.makeshop.jp/houkouen/cabinet/04/04-22h-n7-01.jpg"
+
+	},
+	{ 	"id":3,
+		"poem":"Haru wa senrinni iri shoshoni uguisu",
+		"month":2,
+		"description": "Describing the season of Spring by visiting Japapnese bush warbler in the forest.",
+		"image":"https://shop.r10s.jp/senkien/cabinet/stc010_03/102540.jpg"
+	},
+	{ 	"id": 4,
+		"poem":"Senri no haru nishiki no gotoku",
+		"month": 3,
+		"description": "The sign of Spring is seen everywhere. Flowers are blossoming, which is very cheerful.",
+		"image":"https://shop.senkien.jp/shop/item/senkien/picture/goods/6919_1.jpg"
+	}
+]
